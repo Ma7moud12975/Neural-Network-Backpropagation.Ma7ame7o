@@ -1,3 +1,5 @@
+
+![image imageformat 1286 1106067734](https://github.com/user-attachments/assets/ca87858c-b828-4fab-9370-f6fbab85ff9a)
 # Simple Neural Network Backpropagation Example
 
 This repository contains a basic Python script demonstrating the fundamental concepts of a feedforward neural network, including the forward pass, error calculation (Mean Squared Error), and the backpropagation algorithm for updating weights based on a single training example.
@@ -77,3 +79,4 @@ The specific architecture and initial values are:
 *   Handle multiple training examples (batch or mini-batch gradient descent).
 *   Add options for different activation functions (e.g., ReLU, Tanh).
 *   Implement more sophisticated optimization algorithms (e.g., Adam, RMSprop).
+![Untitled-3](https://github.com/user-attachments/assets/1a3e4ad3-c12b-4cd3-b0af-fd417795abd7)
